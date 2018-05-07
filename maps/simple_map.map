@@ -1,0 +1,14 @@
+2
+##debug
+##start
+start 0 1
+end 0 5
+one 0 2
+##end
+two 0 3
+start-one
+one-two
+two-end
+#
+# [start] -- [ one ] -- [ two ] -- [ end ]
+#

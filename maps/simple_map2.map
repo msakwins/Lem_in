@@ -1,0 +1,16 @@
+5
+##start
+start 0 0
+##end
+end 2 3
+A 0 2
+B 0 4
+start-A
+A-B
+A-end
+B-end
+#
+# [start] -- [  A  ] --- [  B  ]
+#               |          |
+#               |          |
+#                --[ end ]--
